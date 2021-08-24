@@ -104,7 +104,13 @@ let evensArr = []
 
 //Code Here
 
+for(let i = 0; i < nums.length; i++){
+  if (nums[i] % 2 === 0){
+    evensArr.push(nums[i])
+  }
+}
 
+console.log(evensArr);
 
 ////////// PROBLEM 8 //////////
 
@@ -117,6 +123,7 @@ var score = 74
 */
 
 //Code Here
+
 
 
 ////////// Intermediate Problems //////////
