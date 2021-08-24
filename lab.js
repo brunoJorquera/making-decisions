@@ -60,6 +60,7 @@ var arr = [10,20,30,40,50,60]
 //Code Here
 let firstItem = 10
 
+console.log(firstItem)
 //console.log(firstItem)
 
 ////////// PROBLEM 5 //////////
@@ -86,7 +87,9 @@ var family = ['Tyler', 'Jordan', 'Ryan', 'Alice', 'Ireland'];
 
 //Code Here
 
-
+for (let i = 0; i < family.length; i++){
+  console.log(family[i])
+}
 
 ////////// PROBLEM 7 //////////
 
