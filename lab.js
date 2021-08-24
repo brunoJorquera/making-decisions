@@ -58,7 +58,9 @@ var arr = [10,20,30,40,50,60]
 */
 
 //Code Here
+let firstItem = 10
 
+//console.log(firstItem)
 
 ////////// PROBLEM 5 //////////
 /*
@@ -66,6 +68,11 @@ var arr = [10,20,30,40,50,60]
 */
 
 //Code Here
+let lastItemRemoved = (arr.pop())
+
+console.log(arr)
+
+console.log(lastItemRemoved)
 
 ////////// PROBLEM 6 //////////
 
