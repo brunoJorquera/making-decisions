@@ -133,7 +133,7 @@ if (score >= 90){
 } else if(score >= 60 && score < 69){
   console.log("D")
 } else{
-  console.log("You should drop out...")
+  console.log("F")
 }
 
 ////////// Intermediate Problems //////////
